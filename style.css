@@ -1,4 +1,5 @@
-body {
+body 
+{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -8,7 +9,8 @@ body {
     text-align: center;
 }
 
-img {
+img
+{
     display: block;
     margin: 0 auto;
 }
