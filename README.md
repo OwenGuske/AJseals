@@ -12,11 +12,11 @@
   * Concluded with a short message with what I am looking for if you enjoyed my website. 
 * Features
   * Responsive Design
-    * I used the meta tag for viewport settings, ensuring my webpage scales and looks good on phones, tablets, and desktops.
+    * Used the meta tag for viewport settings, ensuring my webpage scales and looks good on phones, tablets, and desktops.
   * Professional Experience
-    * I created a timeline showing my soccer career at JU and UCF, emphasizing leadership and dedication, which translate into my professional work ethic.
+    * Created a timeline showing my soccer career at JU and UCF, emphasizing leadership and dedication, which translate into my professional work ethic.
   * Clean Code Practices
-    * I followed clean code principles by organizing the HTML structure logically, using semantic tags like header, div, and ul for readability. I also made sure to comment on important sections of the code to make it easier for others to understand and maintain.
+    * Followed clean code principles by organizing the HTML structure logically, using semantic tags like header, div, and ul for readability. I also made sure to comment on important sections of the code to make it easier for others to understand and maintain.
   * Call to Action
     * I encourage visitors to reach out for opportunities in product management, highlighting my commitment and hard work in both tech and athletics.
 
