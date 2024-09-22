@@ -20,7 +20,7 @@
   * Call to Action
     * I encourage visitors to reach out for opportunities in product management, highlighting my commitment and hard work in both tech and athletics.
 
-*Credits
+* Credits
   * My friend and software engineer AJ Seals
     * https://www.linkedin.com/in/ajseals/
 
