@@ -1,6 +1,6 @@
 Owen Guske Professional Website Using HTML
-About This Page
-This website provides everything you need to know about my journey, including details on my previous schools, a professional photo, my skills, and the experiences that shaped me.
+* About This Page
+  * This website provides everything you need to know about my journey, including details on my previous schools, a professional photo, my skills, and the experiences that shaped me.
 
 Running the Project
 To view the website, simply click the link at the bottom of this README.
