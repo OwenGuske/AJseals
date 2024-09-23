@@ -80,10 +80,13 @@
     <!-- Connect with Me Form -->
     <div>
         <h3>Connect with Me</h3>
-        <form action="#" method="post">
-            <label for="message">Your Message:</label><br>
-            <textarea id="message" name="message" rows="5" cols="40" placeholder="Write your message here..."></textarea><br><br>
-            <input type="submit" value="Send Message">
-        </form>
+        <div>
+    <h3>Connect with Me</h3>
+    <form action="#" method="post" onsubmit="event.preventDefault(); alert('Thank you! Your message has been received.');">
+        <label for="message">Your Message:</label><br>
+        <textarea id="message" name="message" rows="5" cols="40" placeholder="Write your message here..."></textarea><br><br>
+        <input type="submit" value="Send Message">
+    </form>
+</div>
     </div>
 </body>
