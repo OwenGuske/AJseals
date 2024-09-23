@@ -19,6 +19,8 @@
     * Followed clean code principles by organizing the HTML structure logically, using semantic tags like header, div, and ul for readability. I also made sure to comment on important sections of the code to make it easier for others to understand and maintain.
   * Call to Action
     * I encourage visitors to reach out for opportunities in product management, highlighting my commitment and hard work in both tech and athletics.
+  * Commit Section
+    * Using form a text box appears allowing anyone to submit thoughts, comments, concerns, or any other message they see fit.
 
 * Credits
   * My friend and software engineer AJ Seals
